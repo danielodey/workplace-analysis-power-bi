@@ -27,7 +27,10 @@ To analyze workforce attendance patterns and trends, enabling data-driven decisi
 
 ## Tools and Techniques
 1. **Power BI Desktop**: For dashboard design and data visualization.  
-2. **Advanced DAX**: For creating dynamic calculated columns and measures.  
+2. **Advanced DAX**: For creating dynamic calculated columns and measures.
+
+## Dashboard
+![Alt Text](workplace_analytics.png)
 
 ## Insights Derived
 1. Staff presence over the analyzed period averaged **91.55%**.  
