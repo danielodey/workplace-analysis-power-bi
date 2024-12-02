@@ -30,7 +30,7 @@ To analyze workforce attendance patterns and trends, enabling data-driven decisi
 2. **Advanced DAX**: For creating dynamic calculated columns and measures.
 
 ## Dashboard
-![Alt Text](workplace_analytics.png)
+![Alt Text](workplace_analytics.PNG)
 
 ## Insights Derived
 1. Staff presence over the analyzed period averaged **91.55%**.  
