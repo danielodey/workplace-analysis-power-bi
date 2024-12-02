@@ -47,3 +47,7 @@ The dashboard provided actionable insights into attendance patterns, helping HR 
 - Address attendance and productivity gaps.  
 - Refine remote work policies.  
 - Optimize workforce planning based on day-wise trends.
+
+## Link to Live Project
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODM0MzRmYTgtZDA0Yi00Y2RiLWIyNjYtNTUxZmNiNGY2YTk2IiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9
+)
