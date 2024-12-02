@@ -1,5 +1,6 @@
 
 # Workplace Attendance Analysis Dashboard in Power BI
+![Alt text](hr-analytics.webp)
 
 ## Objective
 To analyze workforce attendance patterns and trends, enabling data-driven decision-making to enhance workforce management and operational efficiency.
